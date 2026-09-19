@@ -1,2 +1,2 @@
 # Forkify-Jenkins
-Forkify app together with a Jenkins for CI implementation
+Forkify app together with Jenkins for CI implementation
