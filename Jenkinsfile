@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo 'Cloning repository...'
-                git 'https://github.com/YOUR_USERNAME/Forkify-Jenkins.git'
+                git 'https://github.com/itayLev1/Forkify-Jenkins.git'
             }
         }
 
